@@ -1,0 +1,12 @@
+flask
+twilio
+python-dotenv
+langchain
+langchain_community
+langchain_groq
+streamlit
+fastapi
+uvicorn
+langserve
+streamlit_js_eval
+geopy
